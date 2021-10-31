@@ -7,3 +7,5 @@ This project was developed using the React library. It allows you to write simpl
 [https://code-editor-screen-recording-with-camera.netlify.app/](https://code-editor-screen-recording-with-camera.netlify.app/)
 
 ![](https://i.ibb.co/5Y3LsVd/Screen-Shot-2021-11-01-at-02-22-48.png)
+
+This project was developed with @tayfunerbilen 's video tutorial.
